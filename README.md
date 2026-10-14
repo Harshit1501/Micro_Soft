@@ -12,7 +12,7 @@ Welcome to the Microsoft Clone project! This project aims to replicate the Micro
 
 ## Demo
 
-You can check out the live demo of the Microsoft Clone [here](https://shivanshusingh07.github.io/Microsoft-Website/).
+You can check out the live demo of the Microsoft Clone [here](https://harshit1501.github.io/Micro_Soft/).
 
 ## Features
 
@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/microsoft-clone.git
+   git clone https://harshit1501.github.io/Micro_Soft/
    ```
 
 2. Navigate to the project directory:
